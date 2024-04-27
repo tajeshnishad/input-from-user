@@ -1,0 +1,12 @@
+a = input("enter your name:")
+print("hi my name is",a)
+
+
+b=input("enter your name here:")
+print("your name is :",b)
+
+x=input("enter 1st number : ")
+y=input("enter 2nd number : ")
+print(int(x)+int(y))
+print(int(x)*int(y))
+print(x+y)
